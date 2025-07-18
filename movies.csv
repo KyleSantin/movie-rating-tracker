@@ -1,0 +1,31 @@
+MovieID,Title,Genre,Rating,DateWatched,Platform
+1,Toy Story,Animation,8,2025-02-25,Amazon Prime
+2,The Lion King,Animation,9,2025-04-04,Netflix
+3,Frozen,Animation,7,2025-06-11,Netflix
+4,Up,Animation,10,2025-03-04,Disney+
+5,Coco,Animation,10,2025-06-03,Cinema
+6,Titanic,Romance,8,2025-04-11,Netflix
+7,The Avengers,Action,7,2025-05-15,Amazon Prime
+8,Up,Animation,8,2025-01-25,Disney+
+9,Joker,Drama,6,2025-03-02,Cinema
+10,Joker,Drama,6,2025-03-27,HBO Max
+11,Avatar,Sci-Fi,9,2025-04-21,Blu-ray
+12,Frozen,Animation,7,2025-04-02,Netflix
+13,Titanic,Romance,8,2025-03-16,Cinema
+14,Finding Nemo,Animation,9,2025-01-14,Disney+
+15,Gladiator,Drama,8,2025-01-10,Netflix
+16,The Matrix,Sci-Fi,6,2025-03-15,Disney+
+17,Avatar,Sci-Fi,8,2025-04-12,Disney+
+18,Joker,Drama,6,2025-06-11,HBO Max
+19,Interstellar,Sci-Fi,9,2025-05-05,Cinema
+20,The Lion King,Animation,6,2025-02-28,Amazon Prime
+21,The Lion King,Animation,7,2025-03-14,Netflix
+22,Interstellar,Sci-Fi,7,2025-03-02,Cinema
+23,The Lion King,Animation,7,2025-05-21,Cinema
+24,Frozen,Animation,9,2025-01-15,Cinema
+25,Titanic,Romance,8,2025-05-23,Cinema
+26,Inception,Thriller,7,2025-03-24,Amazon Prime
+27,Coco,Animation,8,2025-05-15,Blu-ray
+28,The Dark Knight,Action,7,2025-06-18,Amazon Prime
+29,Up,Animation,9,2025-05-04,Cinema
+30,Coco,Animation,9,2025-03-14,Netflix
